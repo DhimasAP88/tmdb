@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="eur">EUR</string>
+    <string name="gbp">GBP</string>
+    <string name="cad">CAD</string>
+    <string name="pln">PLN</string>
+    <string name="under_development">Under Development</string>
+    <string name="trending">Trending</string>
+    <string name="discovery">Discovery</string>
+    <string name="tmdb">TMDB</string>
+    <string name="vote_average">vote_average</string>
+    <string name="overview">Overview</string>
+    <string name="release_date">Release Date</string>
+    <string name="review">Review</string>
+</resources>
